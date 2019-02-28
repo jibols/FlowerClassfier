@@ -10,7 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+!pip install http://download.pytorch.org/whl/cu92/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
+!pip install torchvision
+!pip install Pillow==5.3.0
 ```
 
 ### Installing
